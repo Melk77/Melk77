@@ -17,52 +17,29 @@ I enjoy developing **full-stack applications, backend APIs, database systems, re
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
+### 💻 Languages
 
-* 🐍 Python
-* 🟨 JavaScript
-* ⚡ C++
-* ☕ Java
-* 🐘 PHP
-* 🌐 HTML
-* 🎨 CSS
-* 🗄️ SQL
+🐍 Python • 🟨 JavaScript • ⚡ C++ • ☕ Java • 🐘 PHP • 🗄️ SQL
 
-### Frontend
+### 🎨 Frontend
 
-* React.js
-* Vite
-* Tailwind CSS
+⚛️ React.js • ⚡ Vite • 🎨 Tailwind CSS
 
-### Backend
+### ⚙️ Backend
 
-* Node.js
-* Express.js
-* Laravel
-* REST APIs
-* Socket.IO
+🟢 Node.js • 🚂 Express.js • 🔥 Laravel • 🌐 REST APIs • 🔌 Socket.IO
 
-### Databases
+### 🗄️ Databases
 
-* MySQL
-* PostgreSQL
-* MongoDB
+🐬 MySQL • 🐘 PostgreSQL • 🍃 MongoDB
 
-### Real-Time & Networking
+### 🌐 Real-Time & Networking
 
-* WebRTC
-* Socket.IO
-* STUN / TURN
+🎥 WebRTC • 🔌 Socket.IO • 🧊 STUN / TURN
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* Docker
-
----
+🔧 Git • 🐙 GitHub • 💻 VS Code • 📮 Postman • 🐳 Docker
 
 ## 🚀 What I'm Working On
 
