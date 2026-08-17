@@ -86,14 +86,6 @@ An **Exam Management System** being developed at **Addis Ababa University (AAU)*
 
 ---
 
-## 📊 GitHub Activity
-
-![Melkamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melk77\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melk77\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 * 💻 GitHub: [@Melk77](https://github.com/Melk77)
