@@ -66,10 +66,9 @@ I enjoy developing **full-stack applications, backend APIs, database systems, re
 
 ## 🚀 What I'm Working On
 
-* 🎥 Building **WabiSeminar**, a real-time video conferencing and seminar platform using WebRTC and Socket.IO
-* 🏭 Working on a **Production Management System** for managing production operations, inventory, materials, machines, work orders, and quality processes
+* 🏫 Working on an **Exam Management System (EMS) at Addis Ababa University (AAU)** to support and improve examination management and administration
 * 🧩 Improving my problem-solving and algorithmic skills
-* 🌱 Learning more about **system design, real-time communication, and scalable backend architecture**
+* 🌱 Learning more about **system design, scalable backend architecture, database design, and modern software engineering**
 * 🤝 Collaborating with other developers on software projects
 
 ---
@@ -78,54 +77,35 @@ I enjoy developing **full-stack applications, backend APIs, database systems, re
 
 * Full-Stack Web Development
 * Backend Engineering
-* Real-Time Applications
-* WebRTC
 * System Design
 * Database Design
 * REST API Development
 * Algorithms & Data Structures
 * Software Engineering
 * Scalable Web Applications
+* Real-Time Applications
+* Artificial Intelligence & Machine Learning
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-### 🎥 WabiSeminar
+### 🏫 Exam Management System (EMS)
 
-A real-time browser-based **seminar and video conferencing platform** designed for online meetings and collaborative communication.
+An **Exam Management System** being developed at **Addis Ababa University (AAU)** to support the management and administration of examination processes.
 
-**Technologies:** React, Node.js, Express, Socket.IO, WebRTC, MySQL
+**Technologies:** React, Node.js, Express.js, MySQL
 
-**Key Features:**
+**Key Areas:**
 
-* 🎥 Real-time audio and video
-* 🖥️ Screen sharing
-* 📅 Meeting scheduling
-* 💬 Real-time chat
-* 👤 Host controls
-* 🔗 WebRTC peer-to-peer communication
-
----
-
-### 🏭 Production Management System
-
-A production management platform designed to manage manufacturing and production operations.
-
-**Technologies:** React, Node.js, Express, MySQL
-
-**Key Features:**
-
-* 📋 Work order management
-* 📦 Inventory management
-* 🧱 Raw material management
-* 🏭 Machine management
-* 🔧 Maintenance management
-* 👥 Employee management
-* 🚚 Supplier management
-* 🔍 Quality inspections
-* 🛒 Purchase orders
-* 📊 Production operations
+* 📋 Examination management
+* 👨‍🎓 Student and academic information
+* 👨‍🏫 Instructor and staff management
+* 📅 Exam scheduling
+* 📝 Exam administration
+* 🏫 Room and resource management
+* 📊 Examination data and reporting
+* 🔐 Secure system access and authentication
 
 ---
 
