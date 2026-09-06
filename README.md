@@ -1,4 +1,4 @@
-# Hi there, I'm Melkamu T. Tamir! 👋
+Hi there, I'm Melkamu T. Tamir! 👋
 
 💻 **Computer Science Student at Addis Ababa University (AAU) | Full-Stack Developer | Software Engineering | AI Enthusiast**
 
@@ -6,28 +6,23 @@ I enjoy developing full-stack applications, backend APIs, database systems, real
 
 ---
 
-## 🎓 Education
+🎓 Education
 
 Addis Ababa University (AAU)
 🎓 Computer Science
 
 ---
 
-## 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
 
-###Languages: Python, JavaScript, C++ ,Java ,PHP, SQL
+**Languages:** Python, JavaScript, C++, Java, PHP, SQL
+**Frontend:** React.js, Vite, Tailwind CSS
+**Backend:** Node.js, Express.js, Laravel, REST APIs, Socket.IO
+**Databases:** MySQL, PostgreSQL, MongoDB
+**Real-Time & Networking:** WebRTC, Socket.IO, STUN / TURN
+**Tools & Platforms:** Git, GitHub, VS Code, Postman, Docker
 
-###Frontend: React.js, Vite, Tailwind CSS
-
-###Backend: Node.js, Express.js, Laravel, REST APIs, Socket.IO
-
-###Databases: MySQL, PostgreSQL, MongoDB
-
-###Real-Time & Networking: WebRTC, Socket.IO, STUN / TURN
-
-###Tools & Platforms: Git, GitHub, VS Code, Postman, Docker
-
-## 🚀 What I'm Working On
+🚀 What I'm Working On
 
 * 🏫 Working on an **Exam Management System (EMS) at Addis Ababa University (AAU)** to support and improve examination management and administration
 * 🧩 Improving my problem-solving and algorithmic skills
@@ -35,8 +30,7 @@ Addis Ababa University (AAU)
 * 🤝 Collaborating with other developers on software projects
 
 ---
-
-###Areas of Interest
+**Areas of Interest**
 
 * Full-Stack Web Development
 * Backend Engineering
@@ -51,14 +45,13 @@ Addis Ababa University (AAU)
 
 ---
 
-##Connect With Me
+*Connect* With Me**
 
-* 💻 GitHub: [@Melk77](https://github.com/Melk77)
+💻 GitHub: [@Melk77](https://github.com/Melk77)
 * 📧 Email: [melktsega77@gmail.com](mailto:melktsega77@gmail.com)
 
 ---
-
-##Fun Fact
+**Fun Fact**
 
 I enjoy turning ideas into working software and learning something new from every project I build.
 
