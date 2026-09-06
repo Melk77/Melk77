@@ -57,9 +57,10 @@ Addis Ababa University (AAU)
 * 📧 Email: [melktsega77@gmail.com](mailto:melktsega77@gmail.com)
 
 ---
-**Fun Fact**
 
-I enjoy turning ideas into working software and learning something new from every project I build.
+**Fun Fact 🎮**
+Half gamer, half thinker, 100% curious. 😂
+
 
 ---
 
