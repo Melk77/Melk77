@@ -1,45 +1,31 @@
 # Hi there, I'm Melkamu T. Tamir! 👋
 
-💻 **Computer Science Student at Addis Ababa University (AAU) | Full-Stack Developer | Software Engineering Enthusiast**
+💻 **Computer Science Student at Addis Ababa University (AAU) | Full-Stack Developer | Software Engineering | AI Enthusiast**
 
-I'm a **Computer Science student at Addis Ababa University (AAU)** passionate about building practical software systems, solving algorithmic problems, and learning modern web technologies.
-
-I enjoy developing **full-stack applications, backend APIs, database systems, real-time applications, and collaborative software projects**.
+I enjoy developing full-stack applications, backend APIs, database systems, real-time applications, and collaborative software projects.
 
 ---
 
 ## 🎓 Education
 
-**Addis Ababa University (AAU)**
+Addis Ababa University (AAU)
 🎓 Computer Science
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Languages
+###Languages: Python, JavaScript, C++ ,Java ,PHP, SQL
 
-🐍 Python • 🟨 JavaScript • ⚡ C++ • ☕ Java • 🐘 PHP • 🗄️ SQL
+###Frontend: React.js, Vite, Tailwind CSS
 
-### 🎨 Frontend
+###Backend: Node.js, Express.js, Laravel, REST APIs, Socket.IO
 
-⚛️ React.js • ⚡ Vite • 🎨 Tailwind CSS
+###Databases: MySQL, PostgreSQL, MongoDB
 
-### ⚙️ Backend
+###Real-Time & Networking: WebRTC, Socket.IO, STUN / TURN
 
-🟢 Node.js • 🚂 Express.js • 🔥 Laravel • 🌐 REST APIs • 🔌 Socket.IO
-
-### 🗄️ Databases
-
-🐬 MySQL • 🐘 PostgreSQL • 🍃 MongoDB
-
-### 🌐 Real-Time & Networking
-
-🎥 WebRTC • 🔌 Socket.IO • 🧊 STUN / TURN
-
-### 🧰 Tools & Platforms
-
-🔧 Git • 🐙 GitHub • 💻 VS Code • 📮 Postman • 🐳 Docker
+###Tools & Platforms: Git, GitHub, VS Code, Postman, Docker
 
 ## 🚀 What I'm Working On
 
@@ -50,7 +36,7 @@ I enjoy developing **full-stack applications, backend APIs, database systems, re
 
 ---
 
-## 💡 Areas of Interest
+###Areas of Interest
 
 * Full-Stack Web Development
 * Backend Engineering
@@ -65,38 +51,17 @@ I enjoy developing **full-stack applications, backend APIs, database systems, re
 
 ---
 
-## 📌 Featured Project
-
-### 🏫 Exam Management System (EMS)
-
-An **Exam Management System** being developed at **Addis Ababa University (AAU)** to support the management and administration of examination processes.
-
-**Technologies:** React, Node.js, Express.js, MySQL
-
-**Key Areas:**
-
-* 📋 Examination management
-* 👨‍🎓 Student and academic information
-* 👨‍🏫 Instructor and staff management
-* 📅 Exam scheduling
-* 📝 Exam administration
-* 🏫 Room and resource management
-* 📊 Examination data and reporting
-* 🔐 Secure system access and authentication
-
----
-
-## 📫 Connect With Me
+##Connect With Me
 
 * 💻 GitHub: [@Melk77](https://github.com/Melk77)
 * 📧 Email: [melktsega77@gmail.com](mailto:melktsega77@gmail.com)
 
 ---
 
-## ⚡ Fun Fact
+##Fun Fact
 
-I enjoy turning ideas into **working software** and learning something new from every project I build.
+I enjoy turning ideas into working software and learning something new from every project I build.
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**
+⭐Feel free to explore my repositories and connect with me!
