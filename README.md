@@ -59,6 +59,7 @@ Addis Ababa University (AAU)
 ---
 
 **Fun Fact 🎮**
+
 Half gamer, half thinker, 100% curious. 😂
 
 
